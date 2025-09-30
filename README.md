@@ -1,4 +1,6 @@
 Multi-Landing Page
+
+-------------------------------------------------------------------------------------------------------------------------
 This is a responsive, single-page multi-landing website built with HTML, Tailwind CSS, and Font Awesome. It is designed to showcase a tech business or product with sections for features, testimonials, pricing, and contact.
 Features
 Responsive Header & Navigation:
